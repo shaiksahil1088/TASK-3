@@ -27,7 +27,12 @@ http://localhost/TASK-3/
 ### 📸 Screenshots
 ## 📸 Screenshots
 
-![Homepage](/Screenshot 2025-11-02 122859.png)
-![Search Feature](Screenshot 2025-11-02 122950.png)
-![Pagination](screenshots/pagination.png)
+## 📸 Screenshots
+
+### 🏠 Homepage
+![Homepage](screenshots/Screenshot%202025-11-02%20122859.png)
+
+### 🔍 Search and Pagination Feature
+![Search Feature](screenshots/Screenshot%202025-11-02%20122950.png)
+
 
