@@ -23,16 +23,12 @@ This task involved enhancing the existing **Basic CRUD Application.** by impleme
 4. Open your browser and navigate to:  
 http://localhost/TASK-3/
 
-
-### 📸 Screenshots
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
-### 🏠 Homepage
+### 🏠 Homepage and Pagination Feature
 ![Homepage](screenshots/Screenshot%202025-11-02%20122859.png)
 
-### 🔍 Search and Pagination Feature
+### 🔍 Search
 ![Search Feature](screenshots/Screenshot%202025-11-02%20122950.png)
 
 
